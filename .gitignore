@@ -6,7 +6,7 @@ __pycache__/
 dist/
 build/
 Lib/
-Scripts/
+.venv/Scripts/
 pyvenv.cfg
 
 # Secrets — never commit API keys
